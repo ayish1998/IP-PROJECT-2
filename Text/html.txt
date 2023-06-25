@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Get and Display JSON Data</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="./CSS/style.css">
+  </head>
+  <body>
+    this is better
+      
+    <script src="./JS/main.js"></script>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+
+
+  </body>
+</html>
+
+
+  <!--==section 2: Content-->
+        <section>
+            <div class="row gx-lg-5">
+                <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+                    <!--News block-->
+                    <div>
+                        <!--Featured image-->
+                        <div class="bg-image hover-overlay shadow-1-strong ripple rounded-5 mb-4"
+                            data-mdb-ripple-color="light">
+                            <img src="https://mdbcdn.b-cdn.net/img/new/fluid/city/113.webp" class="img-fluid" />
+                            <a href="#!">
+                                <div class="mask" style="background-color: rgba(251,251,251,0.15);"></div>
+                            </a>
+                        </div>
+                        <!--Article data-->
+                        <div class="row mb-3">
+                            <div class="col-6">
+                                <a href="" class="text-info">
+                                    <i class="fas fa-book"></i> Media Release </a>
+                            </div>
+                            <div class="col-6 text-end">
+                                <u>15.07.2023</u>
+                            </div>
+                        </div>
+                        <!--Article title and description-->
+
+                        <h5>This is title of the news</h5>
+                        <p> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deleniti neque assumenda nemo
+                            consequuntur ratione mollitia suscipit similique quibusdam, facere nostrum maiores atque
+                            aliquid, corrupti porro provident maxime consectetur saepe dolore?</p>
+
+                    </div>
+        </section>
+        <!--Section: Content-->
+        <!--Pagination-->
+            <nav class="my-4 m-4" aria-label="...">
+                <ul class="pagination pagination-circle justify-content-center">
+                    <li class="page-item">
+                        <a class="page-link" href="#" tabindex="-1" aria-disabled="true">Previous</a>
+                    </li>
+                    <li class="page-item">
+                        <a class="page-link" href="#">1</a>
+                    </li>
+                    <li class="page-item active" aria-current="page">
+                        <a class="page-link" href="#">2 <span class="sr-only">(current)</span>
+                        </a>
+                    </li>
+                    <li class="page-item">
+                        <a class="page-link" href="#">3</a>
+                    </li>
+                    <li class="page-item">
+                        <a class="page-link" href="#">Next</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+
+
+<!--======Footer Section Starts here===-->
+        <footer class="main-footer">
+            <div class="container">
+                <div class="footer-content">
+                    <div class="row">
+                        <div class="col-lg-4 col-md-6 col-sm-12 footer-column">
+                            <div class="logo-widget footer-widget">
+                                <figure class="logo-box"><a href="#"><img src="https://i.ibb.co/QDy827D/ak-logo.png"
+                                            alt=""></a></figure>
+                                <div class="text">
+                                    <p>Lorem ipsum dolor amet consectetur adi pisicing elit sed eiusm tempor
+                                        incididunt
+                                        ut
+                                        labore dolore magna aliqua enim ad minim veniam quis.nostrud
+                                        exercita.laboris
+                                        nisi
+                                        ut aliquip ea commodo conse quatuis aute irure.</p>
+                                </div>
+                                <ul class="footer-social">
+                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-12 offset-lg-2 footer-column">
+                            <div class="service-widget footer-widget">
+                                <div class="footer-title">Quick Links</div>
+                                <ul class="list">
+                                    <li><a href="#">Home</a></li>
+                                    <li><a href="#">Newsletter</a></li>
+                                    <li><a href="#">Tutorials</a></li>
+                                    <li><a href="#">About</a></li>
+                                    <li><a href="#">Contact</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-12 footer-widget">
+                            <div class="contact-widget footer-widget">
+                                <div class="footer-title">Contacts</div>
+                                <div class="text">
+                                    <p>Lorem Ipsum, simply dummy text, printing, Chandigarh</p>
+                                    <p>+2(784) 1223323</p>
+                                    <p>info@example.com</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- main-footer end -->
+        <div class="footer-bottom">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-md-6 col-sm-12 column">
+                        <div class="copyright"><a href="#">JobData</a> &copy; 2023 All Right Reserved</div>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-12 column">
+                        <ul class="footer-nav">
+                            <li><a href="#">Terms of Service</a></li>
+                            <li><a href="#">Privacy Policy</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--======Footer Section Ends here===-->
