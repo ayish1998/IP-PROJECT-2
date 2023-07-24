@@ -226,3 +226,66 @@
       </div>
     </section>
     <!--section: news of the day ends-->
+
+
+Background 
+ <!-- <div
+    class="field field--name-field-paragraphs field--type-entity-reference-revisions field--label-hidden field__items">
+    <div class="field__item">
+      <div class="landingHeaderWrapper">
+        <div class="backgroundImage"
+          style="background-image: url('https://mdbcdn.b-cdn.net/img/new/standard/city/043.webp')"></div>
+        <div class="textBackground"></div>
+        <div class="brandingText">
+          <div class="container">
+            <div class="textWrapper">
+              <h1>Welcome to News and Updateflex--grow-0</h1>
+              <p class="headerText"></p>
+              <a class="button button--primary button--dark" href="../website.html">About us</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div> -->
+
+
+
+
+
+
+
+  
+      <!-- <div class="col">
+        <div class="card">
+          <img src="" class="card-img-top"
+            alt="Hollywood Sign on The Hill">
+          <div class="card-body">
+            <h4 class="card-title"></h4>
+            <p class="card-text"> This is a longer card with supporting text below as a natural lead-in to
+              additional
+              content. This content is a little bit longer. </p>
+          </div>
+        </div>
+      </div> -->
+      <!-- <div class="col">
+        <div class="card">
+          <img src="./IMAGE/chart.jpg" class="card-img-top" alt="Palm Springs Road">
+          <div class="card-body">
+            <h4 class="card-title">Job and Salary update</h4>
+            <p class="card-text"> This is a longer card with supporting text below as a natural lead-in to
+              additional
+              content. This content is a little bit longer. </p>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card">
+          <img src="./IMAGE/chart2.jpg" class="card-img-top" alt="Los Angeles Skyscrapers">
+          <div class="card-body">
+            <h4 class="card-title">Stock marketing</h4>
+            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional
+              content.</p>
+          </div>
+        </div>
+      </div> -->

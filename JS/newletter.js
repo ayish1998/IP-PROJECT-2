@@ -44,8 +44,6 @@ fetch(url, options)
             <img src="${article.thumbnail}" class="card-img-top" alt="Hollywood Sign on The Hill">
             <div class="card-body">
               <h4 class="card-title">${article.title}</h4>
-              <p class="card-text"> This is a longer card with supporting text below as a natural lead-in to
-                additional content. This content is a little bit longer. </p>
             </div>
           </div>
         </div>
